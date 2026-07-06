@@ -23,5 +23,5 @@ print("skills" in d)
 
 # ex:-5
 
-e="i future i am become a project manager"
+e="in future i am become a project manager"
 print("manager" in e)
