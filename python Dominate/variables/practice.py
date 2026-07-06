@@ -1,13 +1,19 @@
-# num=int(input("enter your number:-"))
+Ex:-1
 
-# for i in range(1,11):
-#   print(num,"*",i,"=",num*i)
+num=int(input("enter your number:-"))
 
-# i=0
-# num=int(input("enter your number:-"))
-# while i!=10:
-#   i+=1
-#   print(num,"*",i,"=",num*i)
+for i in range(1,11):
+  print(num,"*",i,"=",num*i)
+
+Ex:-2
+
+i=0
+num=int(input("enter your number:-"))
+while i!=10:
+  i+=1
+  print(num,"*",i,"=",num*i)
+
+Ex:-3
 
 def table(num):
  num=int(input("enter your number:-"))
