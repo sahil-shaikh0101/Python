@@ -13,6 +13,6 @@ print(len(c))
 d="coding is passion and life"
 print(len(d))
 
-e="sara game mamu brain ka hai"
+e="I am good in codding "
 print(len(e))
 
