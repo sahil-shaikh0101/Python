@@ -1,23 +1,23 @@
-#multiple value in one variable
+# multiple value in one variable
 
-# s=w=e=10
-# print(s)
-# print(w)
-# print(e)
+s=w=e=10
+print(s)
+print(w)
+print(e)
 
-# x="python is awesome"
-# print(x)
+x="python is awesome"
+print(x)
 
-# x="python"
-# y="is"
-# z="awesome"
+x="python"
+y="is"
+z="awesome"
 
-# print(x,y,z)
+print(x,y,z)
 
-# x="python               "
-# y="is "
-# z="aweosome"
-# print(x    +      y+z)
+x="python               "
+y="is "
+z="aweosome"
+ print(x + y+z)
 
 x=5
 y="  sahil"
