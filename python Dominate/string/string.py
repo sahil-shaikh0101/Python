@@ -1,1 +1,0 @@
-print("he is called 'johnny'")
